@@ -2,9 +2,7 @@
 #          ◆ FeatureBugs Blacklist ◆
 # --------------------------------------------
 #
-#
-# Project home page: 
-# Project releases: 
+# Project home page: https://github.com/FeatureBugs/PiholeBlocklist
 #
 # Start
 # ===============================================================
@@ -12,5 +10,5 @@
 0.0.0.0 google-analytics.com
 # ===============================================================
 # End
-
+#
 # 0.0.0.0 example.com
