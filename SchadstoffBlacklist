@@ -1,0 +1,14 @@
+# Title: Schadstoffs Blacklist
+#
+#
+# Project home page: 
+# Project releases: 
+#
+# Start
+# ===============================================================
+0.0.0.0 googleadservices.com
+0.0.0.0 google-analytics.com
+# ===============================================================
+# End
+
+# 0.0.0.0 example.com
